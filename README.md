@@ -4,7 +4,7 @@
 
 I wanted to create a small button that places itself into the dock. Basically, what does it do?
 
-Ollama, in my machine, has the tendency to eat the whole GPU, and you have to go to the Termina, and type "sudo systemctl restart ollama"
+Ollama, in my machine, has the tendency to eat the whole GPU, and you have to go to the Terminal, and type "sudo systemctl restart ollama"
 
 I then said "It's boring as hell", so I coded a little .sh file that apparently helps you restart Ollama, and free your GPU.
 
